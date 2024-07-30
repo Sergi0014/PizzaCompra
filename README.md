@@ -1,6 +1,6 @@
 # Proyecto de Compra de Pizzas
 
-Este proyecto es una aplicación web para la compra de pizzas. Los usuarios pueden ver un menú de pizzas, agregar pizzas a su carrito y enviar un formulario de contacto.
+Este proyecto es una aplicación web para la compra de pizzas. Los usuarios pueden ver un menú de pizzas y enviar un formulario de contacto.
 
 ## Tecnologías Utilizadas
 
