@@ -14,12 +14,11 @@ El proyecto está organizado en varios componentes y páginas:
 
 ### Componentes
 
-- **MenuItem**: Representa un ítem del menú de pizzas. Muestra la imagen, el nombre y el precio de la pizza, y tiene un botón para agregar la pizza al carrito.
+- **MenuItem**: Representa un ítem del menú de pizzas. Muestra la imagen, el nombre y el precio de la pizza, 
 - **MenuList**: Lista de objetos que representan las pizzas disponibles en el menú.
 
 ### Páginas
 
-- **App**: Componente principal de la aplicación. Contiene el estado del carrito y maneja la lógica para agregar pizzas al carrito.
 - **Menu**: Página que muestra el menú de pizzas. Utiliza el componente `MenuItem` para mostrar cada pizza y permite agregar pizzas al carrito.
 - **Contact**: Página de contacto que contiene un formulario para que los usuarios envíen sus mensajes.
 
@@ -27,7 +26,7 @@ El proyecto está organizado en varios componentes y páginas:
 
 ### Menú de Pizzas
 
-Los usuarios pueden ver una lista de pizzas disponibles en el menú. Cada pizza muestra su imagen, nombre y precio. Los usuarios pueden agregar pizzas al carrito haciendo clic en el botón "Agregar al carrito".
+Los usuarios pueden ver una lista de pizzas disponibles en el menú. Cada pizza muestra su imagen, nombre y precio. 
 
 
 ### Formulario de Contacto
